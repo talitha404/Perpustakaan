@@ -1,6 +1,6 @@
 # 📚 Sistem Informasi Perpustakaan
 
-Sistem infromasi ini dirancang untuk mengelola peminjaman, pengembalian, dan administrasi buku bagi anggota dan .
+Sistem infromasi ini dirancang untuk mengelola peminjaman, pengembalian, dan administrasi buku bagi anggota dan admin.
 
 ## ✨Berbagai Menu yang tersedia
 - **Login sebagai pengunjung lama**  

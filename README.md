@@ -19,5 +19,5 @@ Sistem infromasi ini dirancang untuk mengelola peminjaman, pengembalian, dan adm
 | Adina Nur Afida    | 24082010057    |
 | Talitha Nabila Candra    | 24082010061    |
 | Nadia Ardiyanti Sutrisno | 24082010065 |
-| Hafidz Ramadhan | 24082010070
+| Hafizh Ramadhan | 24082010070
 | M. Mirza Hakim Pandiangan | 24082010072
